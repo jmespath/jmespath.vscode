@@ -33,7 +33,7 @@ export class JMESPathController {
     }
 
     private displayOnOutputChannel(message: string) {
-        this._outputChannel.clear()
+        this._outputChannel.clear();
         this._outputChannel.append(message);
         this._outputChannel.show();
     }
