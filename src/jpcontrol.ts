@@ -21,6 +21,9 @@ export class JMESPathController {
             placeHolder: '',
             prompt: 'Enter a JMESPath expression'
         }).then(value => {
+            if (!value) {
+                return;
+            }
             let query = value;
             try {
                 let result = jmespath.search(jsonDoc, query);
