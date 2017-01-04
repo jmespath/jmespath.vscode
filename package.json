@@ -11,8 +11,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.evaluateJMESPath",
-    "onLanguage:json"
+    "onCommand:extension.evaluateJMESPath"
   ],
   "main": "./out/src/extension",
   "contributes": {
