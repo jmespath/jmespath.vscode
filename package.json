@@ -4,6 +4,7 @@
   "description": "Query JSON documents using JMESPath",
   "version": "0.0.1",
   "publisher": "jamesls",
+  "license": "Apache-2.0",
   "engines": {
     "vscode": "^1.5.0"
   },
