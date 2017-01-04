@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.0.3
+
+* Fix bug when user cancels input text
+
 ### 0.0.2
 
 * Update misc package metadata
