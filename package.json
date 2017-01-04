@@ -8,7 +8,7 @@
   "engines": {
     "vscode": "^1.5.0"
   },
-  "icon": "images/jplogo-stacked.png",
+  "icon": "images/jp-icon.png",
   "categories": [
     "Other"
   ],
