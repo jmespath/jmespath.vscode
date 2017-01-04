@@ -17,7 +17,7 @@
   "main": "./out/src/extension",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamesls/jmespath.vscode"
+    "url": "https://github.com/jmespath/jmespath.vscode"
   },
   "contributes": {
     "commands": [
